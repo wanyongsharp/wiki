@@ -1,0 +1,7 @@
+site_name: rainstorm
+nav:
+  - Home: index.md
+  - About: about.md
+  - oi:
+      - lca: lca.md
+theme: readthedocs
