@@ -1,7 +1,9 @@
-site_name: rainstorm
+site_name: 暴雨的wiki
 nav:
   - Home: index.md
-  - About: about.md
+  - 并查集: dsu.md
   - oi:
-      - lca: lca.md
-theme: readthedocs
+    - 数据结构:
+        - 线段树: oi/数据结构/线段树.md
+    - lca: oi/lca.md
+theme: gitbook
