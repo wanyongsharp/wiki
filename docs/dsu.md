@@ -2,7 +2,7 @@
 
 > NOtes: d fsdf
 
-![](./img/1.jpg)
+![](./assets/images/1.jpg)
 
 ## dfsd
 
