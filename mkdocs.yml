@@ -6,4 +6,4 @@ nav:
     - 数据结构:
         - 线段树: oi/数据结构/线段树.md
     - lca: oi/lca.md
-theme: gitbook
+theme: material
